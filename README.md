@@ -2,7 +2,7 @@
 
 Streamverse is a web application built with React and Tailwind CSS that aims to provide a similar streaming experience like Netflix. 
 It allows users to browse and watch a wide range of movies and TV shows.
-```
+```html
    <p style="color: red;">NOTE: This is just frontend.</p>
 
 ```
